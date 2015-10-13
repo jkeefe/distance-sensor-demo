@@ -1,7 +1,7 @@
 #include <Adafruit_NeoPixel.h>
 
 #define PIN 6 // neopixel data pin
-const int pingPin = 7; // ping data pin
+const int pingPin = 5; // ping data pin
 int leds_to_light;
 long leds_long;
 
